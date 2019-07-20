@@ -1,4 +1,4 @@
-BUCKET=s3://beathound.com
+BUCKET=s3://beathound-com
 
 all:
 	git push origin master
